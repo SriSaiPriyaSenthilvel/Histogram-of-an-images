@@ -23,7 +23,7 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```
+
 #  Developed By: SRI SAI PRIYA.S
 # Register Number: 212222240103
 
@@ -77,7 +77,7 @@ cv2.imshow("Equalized Image",equ)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-```
+
 ## Output:
 ### Input Grayscale Image and Color Image
 
