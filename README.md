@@ -78,12 +78,17 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+
+
+
 ## Output:
 ### Input Grayscale Image and Color Image
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Histogram-of-an-images/assets/119475702/33bf6b3c-eb88-4c1b-85c9-a4059f21e3aa)
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Histogram-of-an-images/assets/119475702/f1651535-6bf1-422b-b47c-ed1c12891a49)
+
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
