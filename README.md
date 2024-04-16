@@ -90,6 +90,9 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <Br>
+<br>
+<br>
+<Br>
 
 
 ## Output:
@@ -99,7 +102,9 @@ cv2.destroyAllWindows()
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Histogram-of-an-images/assets/119475702/f1651535-6bf1-422b-b47c-ed1c12891a49)
 
-
+<br>
+<br>
+<Br>
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
@@ -110,6 +115,10 @@ cv2.destroyAllWindows()
 ![image](https://github.com/SriSaiPriyaSenthilvel/Histogram-of-an-images/assets/119475702/83540243-c2be-40af-bdff-db867f636cf4)
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Histogram-of-an-images/assets/119475702/ffda9763-4d24-4f7c-9b2f-19d2a1a57be8)
+
+<br>
+<br>
+<Br>
 
 ### Histogram Equalization of Grayscale Image.
 
