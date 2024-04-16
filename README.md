@@ -133,6 +133,12 @@ cv2.destroyAllWindows()
 <Br>
 <br>
 <br>
+<br>
+<br>
+<Br>
+<br>
+<br>
+<Br>
 <Br>
 
 ### Histogram Equalization of Grayscale Image.
